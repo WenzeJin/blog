@@ -1,8 +1,0 @@
-title: Wenze Jin's Blog
-author: Wenze Jin
-description: Welcome to my Blog!
-theme: minima # 或其他你选择的主题
-markdown: kramdown
-kramdown:
-  input: GFM
-  math_engine: mathjax
