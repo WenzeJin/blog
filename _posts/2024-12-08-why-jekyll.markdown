@@ -3,6 +3,8 @@ layout:     post
 title:      "Why Jekyll?"
 date:       2024-12-08 16:05:01 +0800
 categories: 其他
+excerpt: >
+    为什么推荐在 GitHub Pages 中使用Jekyll构建静态博客？
 ---
 
 为什么使用Jekyll？
